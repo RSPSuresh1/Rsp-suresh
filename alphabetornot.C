@@ -2,7 +2,7 @@
 int main()
 {
     char c;
-    printf("Enter the character: ");
+    printf("Enter the character or number: ");
     scanf("%c",&c);
 
     if( (c>='a' && c<='z') || (c>='A' && c<='Z'))
