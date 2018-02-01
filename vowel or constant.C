@@ -4,7 +4,7 @@ int main()
     char c;
     int isLowercaseVowel, isUppercaseVowel;
 
-    printf("Enter an alphabet: ");
+    printf("Enter an letter: ");
     scanf("%c",&c);
 
   
