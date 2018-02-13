@@ -40,7 +40,7 @@ int main(void) {
 	}
 	else
 	{
-		printf("no");
+		printf("ngfgggo");
 	}
 	return 0;
 }
